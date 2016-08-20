@@ -1,0 +1,2 @@
+require('./images');
+require('./styles');

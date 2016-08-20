@@ -1,0 +1,11 @@
+{
+  "name": "mock-require-assets",
+  "version": "0.0.1",
+  "description": "Mocks for asset require/imports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satyajit Sahoo <satyajit.happy@gmail.com> (https://github.com/satya164/)",
+  "license": "MIT"
+}
