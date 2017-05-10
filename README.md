@@ -1,6 +1,8 @@
 mock-require-assets
 ===================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/satya164/mock-require-assets.svg)](https://greenkeeper.io/)
+
 Simple mocks for assets, e.g. - images, styles
 
 ## Why
