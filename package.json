@@ -1,6 +1,6 @@
 {
   "name": "mock-require-assets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mocks for asset require/imports",
   "main": "index.js",
   "scripts": {
